@@ -1,7 +1,7 @@
 {
   "name": "solc-version-manager",
   "version": "0.1.0",
-  "description": "Solc download cli tool",
+  "description": "Solc cli downloader tool",
   "main": "index.js",
   "bin": "./index.js",
   "repository": {
