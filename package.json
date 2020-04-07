@@ -1,0 +1,23 @@
+{
+  "name": "solc-version-manager",
+  "version": "0.1.0",
+  "description": "Solc download cli tool",
+  "main": "index.js",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shard-Labs/solc-fetcher.git"
+  },
+  "keywords": [
+    "solidity",
+    "solc",
+    "ethereum",
+    "fetcher"
+  ],
+  "author": "Edi Sinovcic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shard-Labs/solc-fetcher/issues"
+  },
+  "homepage": "https://github.com/Shard-Labs/solc-fetcher#readme"
+}
