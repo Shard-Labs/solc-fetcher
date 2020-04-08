@@ -1,9 +1,10 @@
 {
   "name": "solc-version-manager",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Solc cli downloader tool",
-  "bin": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shard-Labs/solc-fetcher.git"
